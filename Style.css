@@ -1,0 +1,37 @@
+body{
+/*color de fondo*/
+    background-color: rgb(234, 196, 234);
+    color:rgb(108, 68, 0);
+    font-family: 'Poltawski Nowy', serif;
+}
+
+/*color de letras en textos parrafos y así*/
+p{
+    color: rgb(0, 42, 93);
+}
+
+/*el PUNTO agrega la CLASS antes del nombre*/
+.titulo {
+    color: purple;
+}
+ /*si no tiene punto afecta todo */
+
+img {
+    width: 300px;
+}
+.freud {
+    width:300px;
+
+}
+.img-2 {
+    height: 500px;
+    width: 600px;
+}
+.img-3{
+    width: 200px;
+    height: 100px;
+}
+
+/*en este caso el punto selecciona cada imagen de manera individual
+si lo dejara sin punto TODAS las img se cambian igual*/
+
